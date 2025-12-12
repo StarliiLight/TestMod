@@ -1,5 +1,6 @@
 {
   "itemGroup.examplemod": "Example Mod Tab",
   "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item"
+  "item.bismuth.bismuth_ingot": "Bismuth Ingot",
+  "item.bismuth.bismuth_nugget": "Bismuth Nugget"
 }
