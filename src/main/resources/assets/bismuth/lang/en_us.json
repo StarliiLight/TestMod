@@ -1,6 +1,16 @@
 {
   "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
   "item.bismuth.bismuth_ingot": "Bismuth Ingot",
-  "item.bismuth.bismuth_nugget": "Bismuth Nugget"
+  "item.bismuth.bismuth_nugget": "Bismuth Nugget",
+  "item.bismuth.iridescent_bismuth_crystal": "Iridescent Bismuth Crystal",
+  "item.bismuth.blue_bismuth_crystal": "Blue Bismuth Crystal",
+  "item.bismuth.red_bismuth_crystal": "Red Bismuth Crystal",
+  "item.bismuth.pink_bismuth_crystal": "Pink Bismuth Crystal",
+  "item.bismuth.green_bismuth_crystal": "Green Bismuth Crystal",
+  "block.bismuth.iridescent_bismuth_crystal_block": "Iridescent Bismuth Crystal Block",
+  "block.bismuth.blue_bismuth_crystal_block": "Blue Bismuth Crystal Block",
+  "block.bismuth.red_bismuth_crystal_block": "Red Bismuth Crystal Block",
+  "block.bismuth.pink_bismuth_crystal_block": "Pink Bismuth Crystal Block",
+  "block.bismuth.green_bismuth_crystal_block": "Green Bismuth Crystal Block",
+  "block.bismuth.bismuth_block": "Bismuth Block"
 }

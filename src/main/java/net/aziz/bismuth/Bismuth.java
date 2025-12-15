@@ -55,7 +55,21 @@ public class Bismuth {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.BISMUTH_INGOT);
             event.accept(ModItems.BISMUTH_NUGGET);
+            event.accept(ModItems.IRIDESCENT_BISMUTH_CRYSTAL);
+            event.accept(ModItems.BLUE_BISMUTH_CRYSTAL);
+            event.accept(ModItems.GREEN_BISMUTH_CRYSTAL);
+            event.accept(ModItems.PINK_BISMUTH_CRYSTAL);
+            event.accept(ModItems.RED_BISMUTH_CRYSTAL);
         }
+        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.BISMUTH_BLOCK);
+            event.accept(ModBlocks.IRIDESCENT_BISMUTH_CRYSTAL_BLOCK);
+            event.accept(ModBlocks.BLUE_BISMUTH_CRYSTAL_BLOCK);
+            event.accept(ModBlocks.GREEN_BISMUTH_CRYSTAL_BLOCK);
+            event.accept(ModBlocks.PINK_BISMUTH_CRYSTAL_BLOCK);
+            event.accept(ModBlocks.RED_BISMUTH_CRYSTAL_BLOCK);
+        }
+
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
