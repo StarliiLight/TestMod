@@ -1,4 +1,6 @@
 {
+  "creativetab.bismuth.bismuth_items": "פריטי ביסמוט",
+  "creativetab.bismuth.potassium_items": "פריטי אשלגן",
   "item.bismuth.bismuth_ingot": "מטיל ביסמוט",
   "item.bismuth.bismuth_nugget": "נאגט ביסמוט",
   "item.bismuth.iridescent_bismuth_crystal": "גביש ביסמוט צבעוני",
@@ -11,5 +13,6 @@
   "block.bismuth.red_bismuth_crystal_block": "בלוק קריסטל ביסמוט אדום",
   "block.bismuth.pink_bismuth_crystal_block": "בלוק קריסטל ביסמוט ורוד",
   "block.bismuth.green_bismuth_crystal_block": "בלוק קריסטל ביסמוט ירוק",
-  "block.bismuth.bismuth_block": "ביסמוט בלוק"
+  "block.bismuth.bismuth_block": "ביסמוט בלוק",
+  "item.bismuth.potassium_ingot": "מטיל אשלגן"
 }

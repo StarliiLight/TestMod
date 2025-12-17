@@ -1,5 +1,6 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
+  "creativetab.bismuth.bismuth_items": "Bismuth Items",
+  "creativetab.bismuth.potassium_items": "Potassium Items",
   "item.bismuth.bismuth_ingot": "Bismuth Ingot",
   "item.bismuth.bismuth_nugget": "Bismuth Nugget",
   "item.bismuth.iridescent_bismuth_crystal": "Iridescent Bismuth Crystal",
@@ -12,5 +13,6 @@
   "block.bismuth.red_bismuth_crystal_block": "Red Bismuth Crystal Block",
   "block.bismuth.pink_bismuth_crystal_block": "Pink Bismuth Crystal Block",
   "block.bismuth.green_bismuth_crystal_block": "Green Bismuth Crystal Block",
-  "block.bismuth.bismuth_block": "Bismuth Block"
+  "block.bismuth.bismuth_block": "Bismuth Block",
+  "item.bismuth.potassium_ingot": "Potassium Ingot"
 }

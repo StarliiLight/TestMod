@@ -29,6 +29,9 @@ public class ModItems {
     public static final DeferredItem<Item> RED_BISMUTH_CRYSTAL = ITEMS.register("red_bismuth_crystal",
             () -> new Item((new Item.Properties()).component(DataComponents.ENCHANTMENT_GLINT_OVERRIDE, true)));
 
+    public static final DeferredItem<Item> POTASSIUM_INGOT = ITEMS.register("potassium_ingot",
+            () -> new Item((new Item.Properties())));
+    //TODO give potassium texture and JSON
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
