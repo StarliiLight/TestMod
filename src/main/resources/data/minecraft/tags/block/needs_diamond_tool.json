@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bismuth:iridescent_bismuth_crystal_deepslate_ore",
+    "bismuth:iridescent_bismuth_crystal_endstone_ore",
+    "bismuth:pink_bismuth_crystal_deepslate_ore",
+    "bismuth:pink_bismuth_crystal_endstone_ore",
+    "bismuth:green_bismuth_crystal_deepslate_ore",
+    "bismuth:green_bismuth_crystal_endstone_ore"
+  ]
+}

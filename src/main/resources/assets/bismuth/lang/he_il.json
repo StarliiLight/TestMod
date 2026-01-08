@@ -14,5 +14,17 @@
   "block.bismuth.pink_bismuth_crystal_block": "בלוק קריסטל ביסמוט ורוד",
   "block.bismuth.green_bismuth_crystal_block": "בלוק קריסטל ביסמוט ירוק",
   "block.bismuth.bismuth_block": "ביסמוט בלוק",
-  "item.bismuth.potassium_ingot": "מטיל אשלגן"
+  "item.bismuth.potassium_ingot": "מטיל אשלגן",
+  "block.bismuth.iridescent_bismuth_crystal_stone_ore": "עפרת קריסטל ביסמוט ססגונית",
+  "block.bismuth.iridescent_bismuth_crystal_deepslate_ore": "עפרת ביסמוט קריסטל ססגונית עמוקה",
+  "block.bismuth.iridescent_bismuth_crystal_netherrack_ore": "תחתית עפרת קריסטל ביסמוט צבעונית",
+  "block.bismuth.iridescent_bismuth_crystal_endstone_ore": "עפרת אבן קצה קריסטל ביסמוט ססגונית",
+  "block.bismuth.blue_bismuth_crystal_netherrack_ore": "עפרת קריסטל ביסמוט כחולה תחתונה",
+  "block.bismuth.red_bismuth_crystal_netherrack_ore": "עפרת קריסטל ביסמוט אדום תחתית",
+  "block.bismuth.pink_bismuth_crystal_endstone_ore": "עפרת אבן קצה קריסטל ביסמוט ורודה",
+  "block.bismuth.pink_bismuth_crystal_stone_ore": "עפרת קריסטל ביסמוט ורודה",
+  "block.bismuth.pink_bismuth_crystal_deepslate_ore": "עפרת ביסמוט ורודה קריסטל דיפסלט",
+  "block.bismuth.green_bismuth_crystal_endstone_ore": "עפרת אבן קצה קריסטל ביסמוט ירוקה",
+  "block.bismuth.green_bismuth_crystal_stone_ore": "עפרת קריסטל ביסמוט ירוקה",
+  "block.bismuth.green_bismuth_crystal_deepslate_ore": "עפרת ביסמוט ירוקה קריסטל דיפסלט"
 }

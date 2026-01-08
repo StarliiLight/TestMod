@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "bismuth",
+  "ingredient":
+  {
+    "item": "bismuth:iridescent_bismuth_crystal"
+  },
+  "result": {
+    "count": 1,
+    "id": "bismuth:bismuth_ingot"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "bismuth",
+  "ingredient":
+  {
+    "item": "bismuth:iridescent_bismuth_crystal"
+  },
+  "result": {
+    "count": 1,
+    "id": "bismuth:red_bismuth_crystal"
+  }
+}

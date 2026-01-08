@@ -14,5 +14,17 @@
   "block.bismuth.pink_bismuth_crystal_block": "Pink Bismuth Crystal Block",
   "block.bismuth.green_bismuth_crystal_block": "Green Bismuth Crystal Block",
   "block.bismuth.bismuth_block": "Bismuth Block",
-  "item.bismuth.potassium_ingot": "Potassium Ingot"
+  "item.bismuth.potassium_ingot": "Potassium Ingot",
+  "block.bismuth.iridescent_bismuth_crystal_stone_ore": "Iridescent Bismuth Crystal Ore",
+  "block.bismuth.iridescent_bismuth_crystal_deepslate_ore": "Iridescent Bismuth Crystal Deepslate Ore",
+  "block.bismuth.iridescent_bismuth_crystal_netherrack_ore": "Nether Iridescent Bismuth Crystal Ore",
+  "block.bismuth.iridescent_bismuth_crystal_endstone_ore": "Iridescent Bismuth Crystal Endstone Ore",
+  "block.bismuth.blue_bismuth_crystal_netherrack_ore": "Nether Blue Bismuth Crystal Ore",
+  "block.bismuth.red_bismuth_crystal_netherrack_ore": "Nether Red Bismuth Crystal Ore",
+  "block.bismuth.pink_bismuth_crystal_endstone_ore": "Pink Bismuth Crystal Endstone Ore",
+  "block.bismuth.pink_bismuth_crystal_stone_ore": "Pink Bismuth Crystal Ore",
+  "block.bismuth.pink_bismuth_crystal_deepslate_ore": "Pink Bismuth Crystal Deepslate Ore",
+  "block.bismuth.green_bismuth_crystal_endstone_ore": "Green Bismuth Crystal Endstone Ore",
+  "block.bismuth.green_bismuth_crystal_stone_ore": "Green Bismuth Crystal Ore",
+  "block.bismuth.green_bismuth_crystal_deepslate_ore": "Green Bismuth Crystal Deepslate Ore"
 }

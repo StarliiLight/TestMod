@@ -28,6 +28,18 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.GREEN_BISMUTH_CRYSTAL_BLOCK);
                         output.accept(ModBlocks.PINK_BISMUTH_CRYSTAL_BLOCK);
                         output.accept(ModBlocks.RED_BISMUTH_CRYSTAL_BLOCK);
+                        output.accept(ModBlocks.IRIDESCENT_BISMUTH_CRYSTAL_STONE_ORE);
+                        output.accept(ModBlocks.IRIDESCENT_BISMUTH_CRYSTAL_DEEPSLATE_ORE);
+                        output.accept(ModBlocks.IRIDESCENT_BISMUTH_CRYSTAL_NETHERRACK_ORE);
+                        output.accept(ModBlocks.IRIDESCENT_BISMUTH_CRYSTAL_ENDSTONE_ORE);
+                        output.accept(ModBlocks.BLUE_BISMUTH_CRYSTAL_NETHERRACK_ORE);
+                        output.accept(ModBlocks.RED_BISMUTH_CRYSTAL_NETHERRACK_ORE);
+                        output.accept(ModBlocks.PINK_BISMUTH_CRYSTAL_STONE_ORE);
+                        output.accept(ModBlocks.PINK_BISMUTH_CRYSTAL_DEEPSLATE_ORE);
+                        output.accept(ModBlocks.PINK_BISMUTH_CRYSTAL_ENDSTONE_ORE);
+                        output.accept(ModBlocks.GREEN_BISMUTH_CRYSTAL_STONE_ORE);
+                        output.accept(ModBlocks.GREEN_BISMUTH_CRYSTAL_DEEPSLATE_ORE);
+                        output.accept(ModBlocks.GREEN_BISMUTH_CRYSTAL_ENDSTONE_ORE);
                         output.accept(ModItems.BISMUTH_INGOT);
                         output.accept(ModItems.BISMUTH_NUGGET);
                         output.accept(ModItems.IRIDESCENT_BISMUTH_CRYSTAL);
