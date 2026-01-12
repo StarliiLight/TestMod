@@ -1,6 +1,7 @@
 package net.aziz.bismuth.item;
 
 import net.aziz.bismuth.Bismuth;
+import net.aziz.bismuth.item.bismuth_custom_item.BismuthChiselItem;
 import net.minecraft.core.component.DataComponents;
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
@@ -29,6 +30,8 @@ public class ModItems {
     public static final DeferredItem<Item> RED_BISMUTH_CRYSTAL = ITEMS.register("red_bismuth_crystal",
             () -> new Item((new Item.Properties()).component(DataComponents.ENCHANTMENT_GLINT_OVERRIDE, true)));
 
+    public static final DeferredItem<Item> BISMUTH_CHISEL = ITEMS.register("bismuth_chisel",
+            () -> new BismuthChiselItem((new Item.Properties().durability(80))));
     public static final DeferredItem<Item> POTASSIUM_INGOT = ITEMS.register("potassium_ingot",
             () -> new Item((new Item.Properties())));
     //TODO give potassium texture and JSON

@@ -26,5 +26,6 @@
   "block.bismuth.pink_bismuth_crystal_deepslate_ore": "Pink Bismuth Crystal Deepslate Ore",
   "block.bismuth.green_bismuth_crystal_endstone_ore": "Green Bismuth Crystal Endstone Ore",
   "block.bismuth.green_bismuth_crystal_stone_ore": "Green Bismuth Crystal Ore",
-  "block.bismuth.green_bismuth_crystal_deepslate_ore": "Green Bismuth Crystal Deepslate Ore"
+  "block.bismuth.green_bismuth_crystal_deepslate_ore": "Green Bismuth Crystal Deepslate Ore",
+  "item.bismuth.bismuth_chisel": "Bismuth Chisel"
 }

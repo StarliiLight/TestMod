@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "bismuth:bismuth_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " BI",
+    " SB",
+    "S  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "bismuth:bismuth_chisel"
+  }
+}
