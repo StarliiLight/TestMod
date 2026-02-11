@@ -18,7 +18,15 @@ version = mod_version
 group = mod_group_id
 
 repositories {
-    // Add here additional repositories if required by some of the dependencies below.
+    // Add here additional repositories if required by some of the dependencies below
+    maven { url = "https://maven.createmod.net" } // Create, Ponder, Flywheel
+    maven { url = "https://maven.ithundxr.dev/snapshots" } // Registrate
+    maven {
+        url = "https://cursemaven.com"
+        content {
+            includeGroup "curse.maven"
+        }
+    }
 }
 
 base {
@@ -133,6 +141,19 @@ dependencies {
     // For more info:
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
+
+    implementation("com.simibubi.create:create-${minecraft_version}:${create_version}:slim") { transitive = false }
+    implementation("net.createmod.ponder:ponder-neoforge:${ponder_version}+mc${minecraft_version}")
+    compileOnly("dev.engine-room.flywheel:flywheel-neoforge-api-${minecraft_version}:${flywheel_version}")
+    runtimeOnly("dev.engine-room.flywheel:flywheel-neoforge-${minecraft_version}:${flywheel_version}")
+    implementation("com.tterrag.registrate:Registrate:${registrate_version}")
+    implementation "curse.maven:farmers-delight-${farmer_version}:${farmer_id}"
+    implementation "curse.maven:slice-and-dice-659674:7162937"
+    implementation "curse.maven:create-6-0-9-slice-and-dice-4-2-2-compat-1441679:7511522"
+    implementation "curse.maven:applied-energistics-2-223794:7027323"
+    implementation "curse.maven:kotlin-for-forge-351264:7471280"
+    implementation "curse.maven:guideme-1173950:7127444"
+
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.

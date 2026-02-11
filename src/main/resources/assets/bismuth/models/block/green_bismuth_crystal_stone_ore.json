@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "bismuth:block/green_bismuth_crystal_stone_ore"
-  }
-}
